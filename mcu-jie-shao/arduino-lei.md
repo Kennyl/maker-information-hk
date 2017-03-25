@@ -5,7 +5,5 @@ Particles [https://www.particle.io/](https://www.particle.io/)
 
 DigiSpark 係用 ATtiny，USB Chipset 係 CH340。如果用Mac OS 要OFF kext.
 
-Arduino 101 ，異類 Arduino （ATMega）＋ Intel（Quark），有藍芽。
-
-
+Arduino 101 ，異類 Arduino （ATMega）＋ Intel（Quark），有藍芽，六軸加速度計/陀螺儀。
 
