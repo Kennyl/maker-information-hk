@@ -12,4 +12,5 @@
 * [Sensor / 零件 介紹](sensor-jie-shao.md)
   * [網店](sensor-jie-shao/wang-dian.md)
   * [PM2.5](sensor-jie-shao/pm25.md)
+  * [WiiMote](sensor-jie-shao/wiimote.md)
 
